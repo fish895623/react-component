@@ -1,6 +1,6 @@
 {
   "name": "@fish895623/real",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "babel": {
     "presets": [
       "@babel/preset-react"
